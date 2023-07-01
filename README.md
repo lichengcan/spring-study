@@ -1,2 +1,10 @@
 # spring-study
-学习
+第一天搭建环境
+spring boot + MySQL + mybatis-plus 
+controller
+service
+mapper
+
+
+
+
